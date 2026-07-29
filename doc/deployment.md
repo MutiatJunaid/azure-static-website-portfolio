@@ -21,10 +21,9 @@ The Static Website feature was enabled within the Storage Account.
 
 Azure automatically created the `$web` container.
 
-### Screenshot
+<img width="960" height="404" alt="configstaticweb2" src="https://github.com/user-attachments/assets/78c7fd64-240d-4144-968f-748b400db436" />
 
 
----
 
 ## Step 3 – Upload Website Files
 
