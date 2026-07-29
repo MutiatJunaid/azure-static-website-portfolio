@@ -13,8 +13,6 @@ A Storage Account was created to host the static website.
 <img width="960" height="404" alt="storageacct2" src="https://github.com/user-attachments/assets/9cc82025-acbd-4dc5-a4a9-1d5357ebf3bd" />
 
 
-(To be added)
-
 ---
 
 ## Step 2 – Enable Static Website
@@ -24,8 +22,6 @@ The Static Website feature was enabled within the Storage Account.
 Azure automatically created the `$web` container.
 
 ### Screenshot
-
-<img width="960" height="401" alt="container1" src="https://github.com/user-attachments/assets/e309395f-87a9-4d3d-9603-73d92591836b" />
 
 
 ---
@@ -41,8 +37,7 @@ Files included:
 - JavaScript
 - Images
 
-<img width="960" height="403" alt="upload" src="https://github.com/user-attachments/assets/9442f88e-63fd-4ef3-9ee9-71b5ac473d77" />
-
+<img width="960" height="401" alt="container1" src="https://github.com/user-attachments/assets/c2fe537b-83cd-40cb-a737-8a6f2bd04bd1" />
 
 ---
 
